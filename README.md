@@ -6,8 +6,7 @@ Matches Held–Karp optimal solutions up to n=12.
 Scales efficiently to n=100 in stress tests.
 
 Contents
-tsp_beam.py → Main Python implementation.
-data/ → Experimental results (time, memory, routes).
+data/ → Experimental results (time, memory).
 figures/ → Plots (TIFF/PNG).
 paper/ → LaTeX source (Springer template) and compiled PDF.
 
